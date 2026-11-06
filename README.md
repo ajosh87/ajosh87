@@ -1,141 +1,132 @@
-<!--
-  Albert Joshua | GitHub Profile README
-  Theme: Developer Terminal / GenAI Engineering
--->
+ <div align="center">
 
-<div align="center">
+# ALBERT JOSHUA
 
-# `> Albert Joshua_`
+### GenAI Engineer | Software Engineer
 
-### `GenAI Engineer` · `Software Engineer` · `AI Builder`
+**Building intelligent applications through Generative AI and thoughtful software engineering.**
 
-**Building intelligent systems. Engineering real-world solutions.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1200&color=55D6D0&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLM+Engineering;Agentic+AI+%26+Intelligent+Systems;Knowledge+Graphs+%26+Retrieval;Software+Engineering+%26+Application+Development" alt="Areas of expertise" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Exploring+Agentic+AI+systems;Engineering+Knowledge+Graph+solutions;Turning+ideas+into+working+software" alt="Typing animation" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-ajosh87-181717?style=for-the-badge&logo=github)](https://github.com/ajosh87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/albert-joshua-74aa7424/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.v.albertjoshua@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/albert-joshua-74aa7424/) · [GitHub](https://github.com/ajosh87) · [Email](mailto:s.v.albertjoshua@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+## ABOUT ME
 
-```python
-class AlbertJoshua:
+I am a Software Engineer with **1–2 years of experience**, focused on building intelligent applications at the intersection of **Generative AI and software engineering**.
 
-    def __init__(self):
-        self.name = "Albert Joshua"
-        self.role = "GenAI Engineer"
-        self.experience = "1–2 years"
-        self.focus = [
-            "Generative AI",
-            "Software Engineering",
-            "LLM Applications",
-            "AI Agents",
-            "Knowledge Graphs",
-            "Backend Development"
-        ]
+My interests include designing LLM-powered applications, developing agentic systems, exploring graph-based knowledge retrieval, and building practical AI solutions.
 
-        self.mindset = "Build. Experiment. Engineer. Improve."
+I enjoy taking ideas from concept to implementation — understanding the problem, selecting the right technologies, designing the architecture, and developing functional software.
 
-    def introduction(self):
-        return (
-            "I build intelligent applications by combining "
-            "Generative AI with practical software engineering."
-        )
+I have also independently developed projects as a **solo participant in WeMakeDevs-hosted hackathons**, exploring practical applications of AI and modern software technologies.
 
-
-me = AlbertJoshua()
-print(me.introduction())
-```
-
-I'm a Software Engineer passionate about building intelligent applications at the intersection of **Generative AI and software engineering**.
-
-My interests include LLM-powered applications, agentic systems, knowledge graphs, retrieval-based architectures, and multimodal AI experiences.
-
-I enjoy taking ideas from concept to implementation — understanding the problem, exploring the right technologies, designing the architecture, and building functional software.
-
-I have also participated in WeMakeDevs-hosted hackathons as a **solo participant**, independently developing projects that explore practical applications of AI.
-
-**My philosophy:** AI should do more than generate responses. It should solve meaningful problems through well-engineered software.
+**My approach:** Combine the capabilities of AI with sound engineering principles to build applications that are useful, reliable, and accessible.
 
 ---
 
-## `$ ls ./featured-projects`
+## TECHNICAL EXPERTISE
+
+### Generative AI & LLM Engineering
+
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-7456D8?style=flat-square)
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-7456D8?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7456D8?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7456D8?style=flat-square)
+
+### Agentic AI & Intelligent Systems
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-168C91?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-168C91?style=flat-square)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-168C91?style=flat-square)
+
+### Knowledge Graphs & Retrieval
+
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-3976B8?style=flat-square)
+![FalkorDB](https://img.shields.io/badge/FalkorDB-3976B8?style=flat-square)
+![Cypher](https://img.shields.io/badge/Cypher-3976B8?style=flat-square)
+![Graph Databases](https://img.shields.io/badge/Graph_Databases-3976B8?style=flat-square)
+
+### Programming & Application Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Backend & Infrastructure
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+
+---
+
+## FEATURED PROJECTS
 
 ### 01. Bus Navigator India
 
-`[ HACKATHON PROJECT ]` `[ SOLO PARTICIPANT ]`
+**Voice-first Multilingual AI Transit Companion**
 
-**Voice-first multilingual AI transit companion**
+`GENAI` `VOICE AI` `MULTILINGUAL AI` `HACKATHON PROJECT`
 
-An AI-powered transit companion exploring how voice technology and Indian language AI can make public transportation more accessible.
+Independently conceptualized and developed as a solo participant during a hackathon hosted by [WeMakeDevs](https://wemakedevs.org/).
 
-Developed independently during a hackathon hosted by [WeMakeDevs](https://wemakedevs.org/).
+An AI-powered transit companion exploring how voice technologies and Indian language AI can make public transportation more accessible.
 
-**What I built:**
+**Key Engineering Highlights**
 
 - Multilingual experiences supporting India's 22 official languages.
 - Voice-first interaction capabilities.
 - AI-powered signboard understanding.
 - Transit discovery and route-related workflows.
-- Integration with Sarvam AI.
+- Integration with Sarvam AI for Indian language capabilities.
 
-**Technology stack**
+**Technology:** Python · TypeScript · React Native · Expo · Sarvam AI · Cloudflare Workers · Vercel
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
-![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-00A88F?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-[**→ Explore Repository**](https://github.com/ajosh87/bus-navigator-india) · [**→ Live Application**](https://bus-navigator-india.vercel.app)
+[View Repository](https://github.com/ajosh87/bus-navigator-india) | [Live Application](https://bus-navigator-india.vercel.app)
 
 ---
 
 ### 02. Kortex — The Kubernetes Organization Brain
 
-`[ HACKATHON PROJECT ]` `[ SOLO PARTICIPANT ]`
+**Agentic AI & Knowledge Graph Intelligence**
 
-**Agentic AI + Knowledge Graphs**
+`AGENTIC AI` `KNOWLEDGE GRAPHS` `GRAPH RETRIEVAL` `HACKATHON PROJECT`
 
-An intelligent knowledge assistant exploring how AI agents and graph databases can transform complex software repositories into connected, queryable knowledge systems.
+Independently conceptualized and developed as a solo participant during a hackathon hosted by [WeMakeDevs](https://wemakedevs.org/).
 
-Developed independently during a WeMakeDevs-hosted hackathon.
+Kortex explores how AI agents and graph databases can transform complex software repositories into connected, queryable knowledge systems.
 
-**What I built:**
+**Key Engineering Highlights**
 
-- Graph-based knowledge representation.
+- Graph-based knowledge representation using FalkorDB.
 - Agentic question answering over connected information.
 - Code ownership and reviewer discovery.
 - Dependency and change-impact exploration.
 - Context-aware retrieval and reasoning.
 
-**Technology stack**
+**Technology:** Python · LangChain · FalkorDB · Cypher · Knowledge Graphs · Streamlit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FalkorDB](https://img.shields.io/badge/FalkorDB-7B61FF?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Graph Database](https://img.shields.io/badge/Graph_Database-00A88F?style=flat-square)
-
-[**→ Explore Repository**](https://github.com/ajosh87/kortex) · [**→ Live Application**](https://kortex-falkordb.streamlit.app)
+[View Repository](https://github.com/ajosh87/kortex) | [Live Application](https://kortex-falkordb.streamlit.app)
 
 ---
 
 ### 03. CV-Tailor
 
-`[ PERSONAL PROJECT ]`
+**AI-powered Resume & Career Assistant**
 
-**AI-powered resume and career assistant**
+`GENERATIVE AI` `DOCUMENT INTELLIGENCE` `PERSONAL PROJECT`
 
-A local-first application designed to help users tailor resumes and cover letters to specific job descriptions while emphasizing factual consistency and privacy.
+A local-first application designed to help users tailor resumes and cover letters to specific job descriptions, with an emphasis on factual consistency and privacy.
 
-**What I built:**
+**Key Engineering Highlights**
 
 - Job description analysis.
 - AI-assisted resume and cover letter generation.
@@ -143,106 +134,53 @@ A local-first application designed to help users tailor resumes and cover letter
 - ATS-oriented resume evaluation.
 - Privacy-conscious document processing.
 
-**Technology stack**
+**Technology:** Python · LLM APIs · Generative AI · DOCX · Playwright
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
-![DOCX](https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-
-[**→ Explore Repository**](https://github.com/ajosh87/CV-Tailor)
+[View Repository](https://github.com/ajosh87/CV-Tailor)
 
 ---
 
-## `$ cat technical-skills.json`
+## ENGINEERING INTERESTS
 
-```json
-{
-  "programming_languages": [
-    "Python",
-    "TypeScript",
-    "JavaScript"
-  ],
-  "generative_ai": [
-    "LLM Integration",
-    "Prompt Engineering",
-    "LangChain",
-    "RAG",
-    "AI Agents",
-    "Tool Calling"
-  ],
-  "intelligent_systems": [
-    "Knowledge Graphs",
-    "Graph-based Retrieval",
-    "Agentic Workflows"
-  ],
-  "backend_and_infrastructure": [
-    "REST APIs",
-    "Cloudflare Workers",
-    "Vercel",
-    "Docker"
-  ],
-  "application_development": [
-    "React Native",
-    "Expo",
-    "Streamlit"
-  ],
-  "databases": [
-    "FalkorDB",
-    "Graph Databases"
-  ]
-}
-```
-
----
-
-## `$ ./current-focus.sh`
-
-Things I'm continuously exploring and improving:
-
-- Building reliable, production-oriented AI agents.
-- Designing advanced RAG and knowledge retrieval systems.
-- Exploring graph-based reasoning and contextual memory.
-- Developing multimodal and multilingual AI applications.
-- Improving LLM application reliability, evaluation, and security.
-- Applying sound software engineering principles to AI products.
-
----
-
-## `$ git status`
-
-```text
-On branch: continuous-learning
-
-Working tree:
-  + Generative AI
-  + Agentic AI
-  + Knowledge Graphs
-  + Software Engineering
-  + Building useful products
-
-Status: Always learning, always building.
-```
-
----
-
-## `$ connect --with-albert`
-
-I'm always interested in connecting with software engineers, GenAI practitioners, developers, and people building meaningful technology.
-
-Whether it's discussing LLMs, AI agents, software architecture, or collaborating on interesting ideas, feel free to reach out.
-
-| Platform | Link |
+| Domain | Areas of Interest |
 |---|---|
-| GitHub | [@ajosh87](https://github.com/ajosh87) |
-| LinkedIn | [Albert Joshua](https://www.linkedin.com/in/albert-joshua-74aa7424/) |
-| Email | [s.v.albertjoshua@gmail.com](mailto:s.v.albertjoshua@gmail.com) |
+| **LLM Engineering** | LLM Integration, RAG, Prompt Engineering |
+| **Agentic AI** | AI Agents, Tool Calling, Intelligent Workflows |
+| **Knowledge Systems** | Knowledge Graphs, Graph Databases, Retrieval |
+| **Multimodal AI** | Voice AI, Speech Processing, Multilingual Applications |
+| **Software Engineering** | Backend Development, REST APIs, Application Architecture |
+
+---
+
+## CURRENT FOCUS
+
+- Developing reliable, practical AI agents and intelligent workflows.
+- Exploring advanced RAG and graph-based retrieval architectures.
+- Building contextual reasoning and knowledge systems.
+- Exploring multimodal and multilingual AI applications.
+- Improving LLM application reliability, evaluation, and security.
+- Applying strong software engineering practices to AI-powered products.
+
+---
+
+## LET'S CONNECT
+
+I am interested in connecting with engineers, AI practitioners, and teams building meaningful products with Generative AI.
+
+Whether it is discussing LLMs, AI agents, knowledge systems, or software architecture, I would be happy to connect.
+
+**Albert Joshua**
+
+[LinkedIn](https://www.linkedin.com/in/albert-joshua-74aa7424/)
+
+[GitHub](https://github.com/ajosh87)
+
+[Email: s.v.albertjoshua@gmail.com](mailto:s.v.albertjoshua@gmail.com)
 
 <div align="center">
 
-### `while(alive) { build(); learn(); repeat(); }`
+---
 
-**Thanks for visiting my corner of GitHub.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:00F7A5&height=100&section=footer" width="100%" alt="Footer decoration" />
+*Building useful software. Exploring intelligent systems. Engineering what comes next.*
 
 </div>
